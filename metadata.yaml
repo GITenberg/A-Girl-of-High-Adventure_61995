@@ -1,0 +1,41 @@
+_repo: A-Girl-of-High-Adventure_61995
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Elizabeth Thomasina
+    - Meade, Lillie
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Mrs. L. T.
+    - Mead, L. T.
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- GITenberg
+title: A Girl of High Adventure
+url: http://www.gutenberg.org/ebooks/61995
